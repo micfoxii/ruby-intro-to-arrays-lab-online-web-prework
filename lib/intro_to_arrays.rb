@@ -10,12 +10,12 @@ def first_element(my_first_element)
   @taylor_swift.shift
 end
 
-def third_element
-  Array[3]
+def third_element(my_third_element)
+  @taylor_swift[3]
 end
 
 def last_element
-  Array[-1]
+  @taylor_swift[-1]
 end
 
 def first_element_with_array_methods
