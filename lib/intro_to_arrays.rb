@@ -10,4 +10,8 @@ def first_element
   Array.shift
 end
 
-def 
+def third_element
+  Array[3]
+end
+
+def
