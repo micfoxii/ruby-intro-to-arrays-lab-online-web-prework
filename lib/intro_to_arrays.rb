@@ -24,3 +24,8 @@ end
 
 def last_element_with_array_methods
   Array.last
+end
+
+length_of_array
+
+end
