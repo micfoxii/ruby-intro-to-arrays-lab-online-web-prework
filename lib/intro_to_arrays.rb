@@ -15,4 +15,5 @@ def third_element
 end
 
 def last_element
-  
+  Array.last
+end
