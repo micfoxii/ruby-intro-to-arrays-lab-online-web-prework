@@ -14,7 +14,7 @@ def third_element(my_third_element)
   @taylor_swift[3]
 end
 
-def last_element
+def last_element(my_last_element)
   @taylor_swift[-1]
 end
 
