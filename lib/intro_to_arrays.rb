@@ -7,7 +7,7 @@ def array_with_two_elements
 end
 
 def first_element(my_first_element)
-  first_element.shift
+  @taylor_swift.shift
 end
 
 def third_element
