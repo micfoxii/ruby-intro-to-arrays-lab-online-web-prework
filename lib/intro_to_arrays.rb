@@ -9,3 +9,5 @@ end
 def first_element
   Array.shift
 end
+
+def 
